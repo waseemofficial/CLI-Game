@@ -1,3 +1,8 @@
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fwaseemofficial%2FCLI-Game.json%3Fcolor%3Dpink"/>
+
+<img src="https://img.shields.io/github/languages/top/waseemofficialr/CLI-Game"/>
+
+
 <p align="center" >
 <div align="center" >
 <img src="https://github.com/waseemofficial/DSA_Python/blob/main/Images/github_logo_blue.png"/>
